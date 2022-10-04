@@ -2,7 +2,7 @@
 - 👀 I’m interested in database (and improving business decision)
 - 🌱 I’m currently learning data analyst and data engineer
 - 💞️ I’m looking to collaborate on fmcg, finance, and marketing
-- 📫 You can whatsapp me at +628985344348
+- 📫 You can email me @ davidvanab@gmail.com or whatsapp me at +628985344348
 
 <!---
 davidvab/davidvab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
