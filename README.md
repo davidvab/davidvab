@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidvab
 - 👀 I’m interested in database (and improving business decision)
 - 🌱 I’m currently learning data analyst and data engineer
-- 💞️ I’m looking to collaborate on fmcg, finance, and marketing
+- 💞️ I’m looking to collaborate on fmcg, finance, marketing, sales projects
 - 📫 You can email me at davidvanab@gmail.com or whatsapp me at +628985344348
 
 <!---
